@@ -1,28 +1,33 @@
-- Developer and Owner for NordlysRP - 2023
-- Developer and Owner for FlødebolleRP - 2024
-- Developer and Owner for MM-Script - 2024
-- Devoloper and Owner for Eclipse - 2025
-- Working on Qbox Server 
+# 👋 Welcome to My GitHub Profile!
 
+## 🚀 About Me
+I'm a passionate developer focusing on FiveM development and server management. With experience in creating and managing several roleplay communities, I bring creativity and technical expertise to every project.
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=M4rkGamez16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 🛠️ Project Timeline
+### Current
+- 🔧 Actively working on Qbox Server
+- 🌟 Developer and Owner of Eclipse (2025)
 
-<br/>  
+### Previous Projects
+- 💻 Developer and Owner of MM-Script (2024)
+- 🎮 Developer and Owner of FlødebolleRP (2024)
+- 🌐 Developer and Owner of NordlysRP (2023)
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+## 📊 GitHub Statistics
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=M4rkGamez16&&style=flat-square" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M4rkGamez16&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </div>
 
-<br/>  
+## 🔍 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=M4rkGamez16&&style=flat-square&color=blue" align="center" />
+</div>
 
+---
 
-<br />
+<div align="center">
+
+### 💬 Connect With Me
+Feel free to reach out for collaboration or questions about my projects!
+
+</div>
