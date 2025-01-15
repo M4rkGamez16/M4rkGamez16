@@ -1,6 +1,8 @@
-
-- 🔭 Ich bin not so good at this
-
+- Developer and Owner for NordlysRP - 2023
+- Developer and Owner for FlødebolleRP - 2024
+- Developer and Owner for MM-Script - 2024
+- Devoloper and Owner for Eclipse - 2025
+- Working on Qbox Server 
 
 
 ## Github Stats  
