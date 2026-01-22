@@ -5,11 +5,12 @@ I'm a passionate developer focusing on FiveM development and server management. 
 
 ## 🛠️ Project Timeline
 ### Current
-- 🔧 Actively working on Qbox Server
-- 🔧 Developer of Veronix (2025)
+- 🔧 Actively working on ESX Server
+- 🔧 Developer of ImperialRP (2026)
 
 
 ### Previous Projects
+- 🔧 Developer of Veronix (2025)
 - 🌟 Developer and Owner of Eclipse (2025)
 - 💻 Developer and Owner of MM-Script (2024)
 - 🎮 Developer and Owner of FlødebolleRP (2024)
